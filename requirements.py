@@ -1,0 +1,10 @@
+streamlit
+yfinance
+pandas
+numpy
+plotly
+altair
+requests
+beautifulsoup4
+google-generativeai
+pillow
