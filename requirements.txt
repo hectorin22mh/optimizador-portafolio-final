@@ -1,0 +1,9 @@
+streamlit
+yfinance
+numpy
+pandas
+plotly
+google-generativeai
+requests
+beautifulsoup4
+matplotlib
